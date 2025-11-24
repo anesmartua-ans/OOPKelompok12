@@ -57,7 +57,7 @@ Method:
 
 ---
 
-#  UML Class Diagram (Markdown ASCII)
+#  UML Class Diagram (Markdown ASCII) & Flowchart
 
 ```plaintext
                    +----------------------+
@@ -83,11 +83,11 @@ Method:
 | + input()           | | + input()         | | + input()         |
 | + display()         | | + display()       | | + display()       |
 +---------------------+ +-------------------+ +-------------------+
----
 
-#  Flowchart
 
-```plaintext
+
+
+FLOWCHART
                  +-----------------------+
                  |      Mulai Program    |
                  +-----------+-----------+
