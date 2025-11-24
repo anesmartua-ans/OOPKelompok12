@@ -83,7 +83,11 @@ Method:
 | + input()           | | + input()         | | + input()         |
 | + display()         | | + display()       | | + display()       |
 +---------------------+ +-------------------+ +-------------------+
-#  Flowchart 
+---
+
+#  Flowchart
+
+```plaintext
                  +-----------------------+
                  |      Mulai Program    |
                  +-----------+-----------+
